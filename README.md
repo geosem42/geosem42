@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm George
 
-<!--
-**geosem42/geosem42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a product-focused developer who turns coffee into code and ideas into reality. My sweet spot is crafting robust web applications with Laravel and Vue.js, where I blend backend stability with smooth frontend experiences. While PHP and JavaScript are my daily companions, I've ventured into React and React Native territory to build cross-platform solutions that users love. I'm all about shipping products that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Languages and Tools
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geosem42&layout=compact&theme=tokyonight)
+
+### 📫 Let's Connect
+- Portfolio: [https://logicvoid.dev](https://logicvoid.dev)
+- Email: [george@logicvoid.dev](mailto:george@logicvoid.dev)
