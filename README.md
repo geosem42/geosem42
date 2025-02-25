@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-I'm a product-focused developer who turns coffee into code and ideas into reality. My sweet spot is crafting robust web applications with Laravel and Vue.js, where I blend backend stability with smooth frontend experiences. While PHP and JavaScript are my daily companions, I've ventured into React and React Native territory to build cross-platform solutions.
+I'm a product-focused developer who turns coffee into code and ideas into reality. My sweet spot is crafting robust web applications with Laravel and Vue.js, where I blend backend stability with smooth frontend experiences. While PHP and Vue.js are my daily companions, I've ventured into React and React Native territory to build cross-platform solutions.
 
 🛠️ Languages and Tools
 
